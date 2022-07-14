@@ -1,0 +1,11 @@
+C:\Users\Jonathan\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Morbius.exe.config
+C:\Users\Jonathan\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Morbius.exe
+C:\Users\Jonathan\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Morbius.pdb
+C:\Users\Jonathan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Jonathan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jonathan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Jonathan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Jonathan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Morbius.exe
+C:\Users\Jonathan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Morbius.pdb
+C:\Users\Jonathan\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Morbius.Properties.Resources.resources
